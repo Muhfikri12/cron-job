@@ -1,0 +1,5 @@
+{"L":"INFO","T":"2024-12-10T13:37:07.503+0700","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T13:37:07.517+0700","M":"Cron job started successfully, running every 1 minute"}
+{"L":"INFO","T":"2024-12-10T13:38:00.061+0700","M":"Successfully fetched orders","count":10}
+{"L":"INFO","T":"2024-12-10T13:38:00.061+0700","M":"Fetched orders","orderCount":10}
+{"L":"INFO","T":"2024-12-10T13:38:00.068+0700","M":"Excel file created successfully","fileName":"orders_20241210_133800.xlsx"}
